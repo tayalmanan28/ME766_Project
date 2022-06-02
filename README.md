@@ -19,9 +19,9 @@ The Travelling Salesman Problem (often called TSP) is a classic algorithmic prob
 | Hybrid | MPI & OpenMP | `tsp_hybrid.cpp` |
 | GPU Programming | CUDA | `tsp_cuda.cu` | 
 
-### [Project Report](https://github.com/codeknight3/ME766_Project/blob/main/Report.pdf)
+### [Project Report](https://github.com/tayalmanan28/ME766_Project/blob/main/Report.pdf)
 
-### [Presentation](https://github.com/codeknight3/ME766_Project/blob/main/Presentation.pdf)
+### [Presentation](https://github.com/tayalmanan28/ME766_Project/blob/main/Presentation.pdf)
 
 ## Usage
 
